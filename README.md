@@ -8,6 +8,11 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=630&height=75&duration=4000&lines=Hi+👋!;+My+name+is+Soultan+Amirul+Mukminin;+I'm+a+Developer;" />
 </h3>
 
+<div align="center">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=soul222.soul222&" />
+</div>
+
+<br>
 
 <div align="center">
   <a href="https://www.instagram.com/sultan_amirulmukminin?igsh=MThyeDN1Mzhhc3FrNw==" target="_blank">
@@ -50,7 +55,8 @@
 
 <br clear="both">
 
-<div align="center">
+<section>
+ <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5 logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="css3 logo"  />
@@ -82,10 +88,9 @@
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="45" alt="tailwindcss logo"  />
 </div>
 
-###
+ <br clear="both">
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/soul222/soul222/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/soul222/soul222/output/snake.svg" alt="Snake animation" />
+</section>
 
 ###
